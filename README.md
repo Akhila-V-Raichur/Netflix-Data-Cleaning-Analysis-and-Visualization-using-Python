@@ -7,7 +7,7 @@ This project focuses on cleaning, analyzing, and visualizing a Netflix dataset t
 The analysis helps in understanding the variety of content available on Netflix and can be used for further trend analysis or content recommendation systems.
 
 ## Dataset
-The dataset used in this project is available in a CSV file: [Netflix Dataset](https://github.com/aishwarya0404/Netflix-Data-Analysis-using-Python/blob/main/netflix_dataset.csv). It contains attributes such as:
+The dataset used in this project is available in a CSV file:https://github.com/Akhila-V-Raichur/Netflix-Data-Cleaning-Analysis-and-Visualization-using-Python/blob/main/archive_netflix%20(9).zip It contains attributes such as:
 - Show ID
 - Type (Movie/TV Show)
 - Title
